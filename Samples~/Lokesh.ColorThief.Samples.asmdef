@@ -1,0 +1,16 @@
+{
+    "name": "Lokesh.ColorThief.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0e561adbb70ea454ba869c47ff2d106d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

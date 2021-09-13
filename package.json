@@ -1,0 +1,22 @@
+{
+    "name": "com.lokesh.color-thief",
+    "displayName": "Color Thief",
+    "description": "Grab the color palette from an image",
+    "version": "1.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prefrontalcortex/ColorThief"
+    },
+    "author": {
+        "name": "lokesh",
+        "url": "https://github.com/lokesh",
+        "email": "lokesh.dhakar@gmail.com"
+    },
+    "samples": [
+        {
+            "displayName": "Demo",
+            "description": "ColorThief Usage",
+            "path": "Samples~"
+        }
+    ]
+}

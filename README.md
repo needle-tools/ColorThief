@@ -1,9 +1,10 @@
 # Color Thief Unity
-A code for grabbing the color palette from an image. Uses C#.NET and Unity 2DTexture to make it happen.
+A code for grabbing the color palette from an image.
 
-Origin Project [Color Thief](https://github.com/lokesh/color-thief)
-
-Ported Project of [Color Thief .NET](https://github.com/KSemenenko/ColorThief) 
+Original Project [Color Thief](https://github.com/lokesh/color-thief) by lokesh  
+Ported Project of [Color Thief .NET](https://github.com/KSemenenko/ColorThief) by KSemenenko   
+[Unity Version](https://github.com/chiutse/ColorThief) by chiutse  
+[Unity Package Manager version](https://github.com/needle-tools/ColorThief.git) by hybridherbst  
 
 ## How To Use
 Dominant Color
