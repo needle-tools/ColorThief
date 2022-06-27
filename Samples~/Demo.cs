@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace ColorThief
 {
-	public class ColorThiefDemo : MonoBehaviour
+	public class Demo : MonoBehaviour
 	{
 		public Texture2D texture;
 		public RawImage image;
